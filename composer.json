@@ -1,11 +1,17 @@
 {
-    "name": "htmlburger/wpemerge-cli",
+    "name": "acollazo/wpemerge-cli",
     "version": "0.16.0",
     "description": "CLI tool for WP Emerge.",
     "type": "library",
     "license": "GPL-2.0-only",
     "homepage": "https://wpemerge.com/",
     "authors": [
+        {
+            "name": "Adrian Collazo",
+            "email": "hello@acollazo.com",
+            "homepage": "https://acollazo.com/",
+            "role": "Developer"
+        },
         {
             "name": "Atanas Angelov",
             "email": "hi@atanas.dev",
